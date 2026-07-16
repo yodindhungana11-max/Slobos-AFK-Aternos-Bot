@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "SurvivalWorld067.aternos.me",
+    "port": 30156,
     "version": "",
     "try-creative": false
   },
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {

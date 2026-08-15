@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Radiant_Survival.aternos.me",
-    "port": 52872,
+    "ip": "dynamic-9.magmanode.com",
+    "port": 25836,
     "version": "",
     "try-creative": false
   },
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
